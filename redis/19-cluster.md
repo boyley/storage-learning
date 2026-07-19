@@ -1,4 +1,4 @@
-# 18 · 集群（Redis Cluster）
+# 19 · 集群（Redis Cluster）
 
 > 去中心化分片方案：16384 个 hash slot 均分到多个 master，CRC16 分槽，gossip 传播拓扑，MOVED/ASK 重定向，每个分片自带主从做故障转移。面试重要度 ⭐⭐⭐ 高频（重头）。
 
